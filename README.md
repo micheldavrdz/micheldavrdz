@@ -1,5 +1,5 @@
 <h1 align="center">
-  
+  <img src="https://raw.githubusercontent.com/micheldavrdz/micheldavrdz/main/banner%20github.png" alt="Michel Dávila Rodríguez" />
 </h1>
 
 # Español
@@ -8,18 +8,17 @@
 Soy Michel Dávila Rodríguez, ingeniero en producción multimedia mexicano trabajando como desarrollador frontend.
 
 ## Habilidades
-- HTML5
-- CSS
-- Javascript
-- SCSS
-- Bootstrap
-- Bulma
-- Materializecss
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30"> HTML5
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30"> CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30"> Javascript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30"> SCSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"> Bootstrap
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="30"> Bulma
 
 ## Aprendiendo
-- React
-- Vue
-- Tailwindcss
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"> Reactjs
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"> Vuejs
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"> Tailwindcss
 
 ## Contacto
 - [Mi página personal](#)
@@ -33,18 +32,17 @@ Soy Michel Dávila Rodríguez, ingeniero en producción multimedia mexicano trab
 I'm Michel Dávila Rodríguez, a mexican multimedia production engineer working as a frontend developer.
 
 ## Skills
-- HTML5
-- CSS
-- Javascript
-- SCSS
-- Bootstrap
-- Bulma
-- Materializecss
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30"> HTML5
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30"> CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30"> Javascript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30"> SCSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"> Bootstrap
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="30"> Bulma
 
 ## Currently learning
-- Reactjs
-- Vuejs
-- Tailwindcss
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"> Reactjs
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"> Vuejs
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"> Tailwindcss
 
 ## Contact
 - [My personal website](#)
