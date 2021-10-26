@@ -25,6 +25,7 @@ Soy Michel Dávila Rodríguez, ingeniero en producción multimedia mexicano trab
 - [Mi página personal](#)
 - [micheldavrdz](https://linkedin.com/in/micheldavrdz) en Linkedin
 - [micheldavrdz](https://github.com/micheldavrdz) en Github
+- Mandame un correo a micheldavrdz@gmail.com
 
 # English
 
@@ -49,3 +50,4 @@ I'm Michel Dávila Rodríguez, a mexican multimedia production engineer working 
 - [My personal website](#)
 - [micheldavrdz](https://linkedin.com/in/micheldavrdz) on Linkedin
 - [micheldavrdz](https://github.com/micheldavrdz) on Github
+- Send me an email at micheldavrdz@gmail.com
