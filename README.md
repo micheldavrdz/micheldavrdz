@@ -8,7 +8,7 @@
 Soy Michel Dávila Rodríguez, ingeniero en producción multimedia mexicano trabajando como desarrollador frontend.
 
 ## Habilidades
-- ![HTML5] HTML5
+- HTML5
 - CSS
 - Javascript
 - SCSS
