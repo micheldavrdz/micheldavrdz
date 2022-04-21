@@ -17,8 +17,9 @@ Soy **Michel Dávila Rodríguez**, _ingeniero en producción multimedia_ mexican
 
 ## Aprendiendo
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"> **Python**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"> **Vuejs**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> **ReactJS**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"> **Tailwindcss**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> **NodeJS**
 
 ## Contacto
 - <img src="https://raw.githubusercontent.com/micheldavrdz/micheldavrdz/6f1defe9e84da0f3a3afa0685fa5f402413f069e/user.svg" width="20"> [Mi página personal (en construcción)](#)
@@ -43,8 +44,9 @@ I'm **Michel Dávila Rodríguez**, a mexican _multimedia production engineer_ wo
 
 ## Currently learning
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"> **Python**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"> **Vuejs**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> **ReactJS**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"> **Tailwindcss**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> **NodeJS**
 
 ## Contact
 - <img src="https://raw.githubusercontent.com/micheldavrdz/micheldavrdz/6f1defe9e84da0f3a3afa0685fa5f402413f069e/user.svg" width="20"> [My personal website (under construction)](#)
